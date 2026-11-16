@@ -4,8 +4,7 @@ Turn any spot light in Blender into a gobo projector with a visible haze beam, s
 
 A gobo is a stencil placed in front of a light to throw a pattern, like window blinds, foliage, cobblestones or a logo. This addon builds the setup for you and keeps it attached to the light.
 
-<!-- Add screenshots here, for example: -->
-<!-- ![Cobblestone gobo with haze](docs/cobblestones.png) -->
+<img width="1920" height="1080" alt="gobocover" src="https://github.com/user-attachments/assets/2f6d04ca-ef4d-4222-8efb-a26531e0e239" />
 
 ## Features
 
